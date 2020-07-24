@@ -1,0 +1,56 @@
+.info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+/* .smallAvatar img {
+    width: 50px;
+} */
+
+.linkbox {
+    /* margin-bottom: 50px; */
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 30px 30px;
+    margin-right: 20px;
+    margin-top: 30px;
+    
+}
+
+/* .link {
+    margin-right: 30px;
+}
+
+.description {
+    margin-right: 30px;
+} */
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+}
+
+.nihnih {
+    display: flex;
+    align-items: flex-start;
+}
+
+p {
+    font-size: 12px;
+}
+
+.description {
+    line-height: 15px;
+    margin-right: 80px;
+    margin-top: -23px;
+}
+
+.link {
+    margin-right: 30px;
+}
+
+.smallAvatar img {
+    margin-top: -5px;
+}
